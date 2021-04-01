@@ -59,7 +59,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Forms\bancoDeDadosDataSet.Designer.cs">
+    <Compile Include="bancoDeDadosDataSet.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>bancoDeDadosDataSet.xsd</DependentUpon>
@@ -84,7 +84,7 @@
     <Compile Include="Forms\FrmLogin.Designer.cs">
       <DependentUpon>FrmLogin.cs</DependentUpon>
     </Compile>
-    <Compile Include="Class\Program.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -114,15 +114,15 @@
     <EmbeddedResource Include="Forms\Resultado.resx">
       <DependentUpon>Resultado.cs</DependentUpon>
     </EmbeddedResource>
-    <None Include="Forms\bancoDeDadosDataSet.xsc">
+    <None Include="bancoDeDadosDataSet.xsc">
       <DependentUpon>bancoDeDadosDataSet.xsd</DependentUpon>
     </None>
-    <None Include="Forms\bancoDeDadosDataSet.xsd">
+    <None Include="bancoDeDadosDataSet.xsd">
       <Generator>MSDataSetGenerator</Generator>
       <LastGenOutput>bancoDeDadosDataSet.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </None>
-    <None Include="Forms\bancoDeDadosDataSet.xss">
+    <None Include="bancoDeDadosDataSet.xss">
       <DependentUpon>bancoDeDadosDataSet.xsd</DependentUpon>
     </None>
     <None Include="Properties\Settings.settings">
