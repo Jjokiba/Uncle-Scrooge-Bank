@@ -1,0 +1,91 @@
+Z:\Documentos\Faculdade\Trabalhos\Linguagem de Programação 1\TCD\Uncle Scrooge Bank\Uncle Scrooge Bank\bin\Debug\Uncle Scrooge Bank.exe.config
+Z:\Documentos\Faculdade\Trabalhos\Linguagem de Programação 1\TCD\Uncle Scrooge Bank\Uncle Scrooge Bank\bin\Debug\Uncle Scrooge Bank.exe
+Z:\Documentos\Faculdade\Trabalhos\Linguagem de Programação 1\TCD\Uncle Scrooge Bank\Uncle Scrooge Bank\bin\Debug\Uncle Scrooge Bank.pdb
+Z:\Documentos\Faculdade\Trabalhos\Linguagem de Programação 1\TCD\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle Scrooge Bank.csprojResolveAssemblyReference.cache
+Z:\Documentos\Faculdade\Trabalhos\Linguagem de Programação 1\TCD\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle_Scrooge_Bank.Banco.resources
+Z:\Documentos\Faculdade\Trabalhos\Linguagem de Programação 1\TCD\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle_Scrooge_Bank.Properties.Resources.resources
+Z:\Documentos\Faculdade\Trabalhos\Linguagem de Programação 1\TCD\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle_Scrooge_Bank.Resultado.resources
+Z:\Documentos\Faculdade\Trabalhos\Linguagem de Programação 1\TCD\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle Scrooge Bank.csproj.GenerateResource.Cache
+Z:\Documentos\Faculdade\Trabalhos\Linguagem de Programação 1\TCD\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle Scrooge Bank.exe
+Z:\Documentos\Faculdade\Trabalhos\Linguagem de Programação 1\TCD\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle Scrooge Bank.pdb
+E:\TCD - Copia\TCD\Uncle Scrooge Bank\Uncle Scrooge Bank\bin\Debug\Uncle Scrooge Bank.exe.config
+E:\TCD - Copia\TCD\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle Scrooge Bank.pdb
+E:\TCD - Copia\TCD\Uncle Scrooge Bank\Uncle Scrooge Bank\bin\Debug\Uncle Scrooge Bank.exe
+E:\TCD - Copia\TCD\Uncle Scrooge Bank\Uncle Scrooge Bank\bin\Debug\Uncle Scrooge Bank.pdb
+E:\TCD - Copia\TCD\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle Scrooge Bank.csprojResolveAssemblyReference.cache
+E:\TCD - Copia\TCD\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle_Scrooge_Bank.Banco.resources
+E:\TCD - Copia\TCD\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle_Scrooge_Bank.Properties.Resources.resources
+E:\TCD - Copia\TCD\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle_Scrooge_Bank.Resultado.resources
+E:\TCD - Copia\TCD\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle Scrooge Bank.csproj.GenerateResource.Cache
+E:\TCD - Copia\TCD\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle Scrooge Bank.exe
+D:\TCD - Copia\TCD\Uncle Scrooge Bank\Uncle Scrooge Bank\bin\Debug\Uncle Scrooge Bank.exe.config
+D:\TCD - Copia\TCD\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle Scrooge Bank.exe
+D:\TCD - Copia\TCD\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle Scrooge Bank.pdb
+D:\TCD - Copia\TCD\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle Scrooge Bank.csprojResolveAssemblyReference.cache
+D:\TCD - Copia\TCD\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle_Scrooge_Bank.Banco.resources
+D:\TCD - Copia\TCD\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle_Scrooge_Bank.Properties.Resources.resources
+D:\TCD - Copia\TCD\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle_Scrooge_Bank.Resultado.resources
+D:\TCD - Copia\TCD\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle Scrooge Bank.csproj.GenerateResource.Cache
+D:\TCD - Copia\TCD\Uncle Scrooge Bank\Uncle Scrooge Bank\bin\Debug\Uncle Scrooge Bank.exe
+D:\TCD - Copia\TCD\Uncle Scrooge Bank\Uncle Scrooge Bank\bin\Debug\Uncle Scrooge Bank.pdb
+D:\LP - 1\TCD - Copia\TCD\Uncle Scrooge Bank\Uncle Scrooge Bank\bin\Debug\Uncle Scrooge Bank.exe.config
+D:\LP - 1\TCD - Copia\TCD\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle Scrooge Bank.exe
+D:\LP - 1\TCD - Copia\TCD\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle Scrooge Bank.pdb
+C:\Users\Usuario.PC\Desktop\TCD - Copia\TCD\Uncle Scrooge Bank\Uncle Scrooge Bank\bin\Debug\Uncle Scrooge Bank.exe.config
+C:\Users\Usuario.PC\Desktop\TCD - Copia\TCD\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle Scrooge Bank.exe
+C:\Users\Usuario.PC\Desktop\TCD - Copia\TCD\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle Scrooge Bank.pdb
+C:\Users\Usuario.PC\Desktop\TCD - Copia\TCD\Uncle Scrooge Bank\Uncle Scrooge Bank\bin\Debug\Uncle Scrooge Bank.exe
+C:\Users\Usuario.PC\Desktop\TCD - Copia\TCD\Uncle Scrooge Bank\Uncle Scrooge Bank\bin\Debug\Uncle Scrooge Bank.pdb
+C:\Users\Usuario.PC\Desktop\TCD - Copia\TCD\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle Scrooge Bank.csprojResolveAssemblyReference.cache
+C:\Users\Usuario.PC\Desktop\TCD - Copia\TCD\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle_Scrooge_Bank.Banco.resources
+C:\Users\Usuario.PC\Desktop\TCD - Copia\TCD\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle_Scrooge_Bank.Properties.Resources.resources
+C:\Users\Usuario.PC\Desktop\TCD - Copia\TCD\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle_Scrooge_Bank.Resultado.resources
+C:\Users\Usuario.PC\Desktop\TCD - Copia\TCD\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle Scrooge Bank.csproj.GenerateResource.Cache
+E:\LP - 1\TCD\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\bin\Debug\Uncle Scrooge Bank.exe.config
+E:\LP - 1\TCD\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle Scrooge Bank.exe
+E:\LP - 1\TCD\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle Scrooge Bank.pdb
+E:\LP - 1\TCD\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\bin\Debug\Uncle Scrooge Bank.exe
+E:\LP - 1\TCD\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\bin\Debug\Uncle Scrooge Bank.pdb
+E:\LP - 1\TCD\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle Scrooge Bank.csprojResolveAssemblyReference.cache
+E:\LP - 1\TCD\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle_Scrooge_Bank.Banco.resources
+E:\LP - 1\TCD\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle_Scrooge_Bank.Properties.Resources.resources
+E:\LP - 1\TCD\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle_Scrooge_Bank.Resultado.resources
+E:\LP - 1\TCD\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle Scrooge Bank.csproj.GenerateResource.Cache
+C:\Users\Usuario.PC\Downloads\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\bin\Debug\Uncle Scrooge Bank.exe.config
+C:\Users\Usuario.PC\Downloads\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle Scrooge Bank.exe
+C:\Users\Usuario.PC\Downloads\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle Scrooge Bank.pdb
+C:\Users\Usuario.PC\Downloads\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\bin\Debug\Uncle Scrooge Bank.exe
+C:\Users\Usuario.PC\Downloads\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\bin\Debug\Uncle Scrooge Bank.pdb
+C:\Users\Usuario.PC\Downloads\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle Scrooge Bank.csprojResolveAssemblyReference.cache
+C:\Users\Usuario.PC\Downloads\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle_Scrooge_Bank.Banco.resources
+C:\Users\Usuario.PC\Downloads\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle_Scrooge_Bank.Properties.Resources.resources
+C:\Users\Usuario.PC\Downloads\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle_Scrooge_Bank.Resultado.resources
+C:\Users\Usuario.PC\Downloads\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle Scrooge Bank.csproj.GenerateResource.Cache
+C:\Users\Usuario.PC\Desktop\TCD - Copia\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\bin\Debug\Uncle Scrooge Bank.exe.config
+C:\Users\Usuario.PC\Desktop\TCD - Copia\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle Scrooge Bank.exe
+C:\Users\Usuario.PC\Desktop\TCD - Copia\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle Scrooge Bank.pdb
+C:\Users\Usuario.PC\Desktop\TCD - Copia\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\bin\Debug\Uncle Scrooge Bank.exe
+C:\Users\Usuario.PC\Desktop\TCD - Copia\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\bin\Debug\Uncle Scrooge Bank.pdb
+C:\Users\Usuario.PC\Desktop\TCD - Copia\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle Scrooge Bank.csprojResolveAssemblyReference.cache
+C:\Users\Usuario.PC\Desktop\TCD - Copia\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle_Scrooge_Bank.Banco.resources
+C:\Users\Usuario.PC\Desktop\TCD - Copia\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle_Scrooge_Bank.Properties.Resources.resources
+C:\Users\Usuario.PC\Desktop\TCD - Copia\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle_Scrooge_Bank.Resultado.resources
+C:\Users\Usuario.PC\Desktop\TCD - Copia\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle Scrooge Bank.csproj.GenerateResource.Cache
+C:\Users\Usuario.PC\Desktop\TCD - Copia\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\bin\Debug\bancoDeDados.mdf
+C:\Users\Usuario.PC\Desktop\TCD - Copia\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\bin\Debug\bancoDeDados_log.ldf
+C:\Users\Usuario.PC\Desktop\TCD - Copia\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle_Scrooge_Bank.FrmLogin.resources
+C:\Users\Usuario.PC\Desktop\TCD - Copia\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle_Scrooge_Bank.FrmDeposit.resources
+C:\Users\Usuario.PC\Desktop\Faculdade\1º & 2ºSem\.LP 1\TCD - Copia\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\bin\Debug\Uncle Scrooge Bank.exe.config
+C:\Users\Usuario.PC\Desktop\Faculdade\1º & 2ºSem\.LP 1\TCD - Copia\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle Scrooge Bank.exe
+C:\Users\Usuario.PC\Desktop\Faculdade\1º & 2ºSem\.LP 1\TCD - Copia\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle Scrooge Bank.pdb
+C:\Users\Usuario.PC\Desktop\Faculdade\1º & 2ºSem\.LP 1\TCD - Copia\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\bin\Debug\bancoDeDados.mdf
+C:\Users\Usuario.PC\Desktop\Faculdade\1º & 2ºSem\.LP 1\TCD - Copia\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\bin\Debug\bancoDeDados_log.ldf
+C:\Users\Usuario.PC\Desktop\Faculdade\1º & 2ºSem\.LP 1\TCD - Copia\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\bin\Debug\Uncle Scrooge Bank.exe
+C:\Users\Usuario.PC\Desktop\Faculdade\1º & 2ºSem\.LP 1\TCD - Copia\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\bin\Debug\Uncle Scrooge Bank.pdb
+C:\Users\Usuario.PC\Desktop\Faculdade\1º & 2ºSem\.LP 1\TCD - Copia\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle Scrooge Bank.csprojResolveAssemblyReference.cache
+C:\Users\Usuario.PC\Desktop\Faculdade\1º & 2ºSem\.LP 1\TCD - Copia\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle_Scrooge_Bank.Banco.resources
+C:\Users\Usuario.PC\Desktop\Faculdade\1º & 2ºSem\.LP 1\TCD - Copia\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle_Scrooge_Bank.FrmDeposit.resources
+C:\Users\Usuario.PC\Desktop\Faculdade\1º & 2ºSem\.LP 1\TCD - Copia\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle_Scrooge_Bank.FrmLogin.resources
+C:\Users\Usuario.PC\Desktop\Faculdade\1º & 2ºSem\.LP 1\TCD - Copia\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle_Scrooge_Bank.Properties.Resources.resources
+C:\Users\Usuario.PC\Desktop\Faculdade\1º & 2ºSem\.LP 1\TCD - Copia\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle_Scrooge_Bank.Resultado.resources
+C:\Users\Usuario.PC\Desktop\Faculdade\1º & 2ºSem\.LP 1\TCD - Copia\TCD 1.0\Uncle Scrooge Bank\Uncle Scrooge Bank\obj\Debug\Uncle Scrooge Bank.csproj.GenerateResource.Cache
